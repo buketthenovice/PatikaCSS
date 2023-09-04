@@ -1,0 +1,13 @@
+footer{
+    background-color:#f6f6f6;
+}
+#top{
+    background-color:#F0F0F0;
+    list-style-position: inside;
+}
+body>p,body>ul{
+    margin-left: 5px;
+}
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
